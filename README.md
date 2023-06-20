@@ -1,4 +1,4 @@
-<h1>Hi, I'm Najib! <br/><a href="https://github.com/Najibkassab">Embedded Software Engineer</a></h1>
+<h1>Hi, I'm Najib! <br/><a href="https://github.com/Najibkassab">Embedded system Engineer</a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
@@ -26,7 +26,7 @@
 [facebook]: https://www.facebook.com/Najeebkassab94/
 
 :email: najibmkassab@gmail.com
-:telephone_receiver:+201151563175
+:telephone_receiver:+917506890816
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
